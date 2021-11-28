@@ -35,7 +35,10 @@
 </p>
 
 ## Metrics
+
 [![monhime's GitHub stats](https://github-readme-stats.vercel.app/api?username=monhime&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=monhime&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![](https://raw.githubusercontent.com/monhime/monhime/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/monhime/monhime/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -43,7 +46,7 @@
 [![](https://raw.githubusercontent.com/monhime/monhime/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/monhime/monhime/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=monhime&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 #### Development Environment
