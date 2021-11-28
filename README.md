@@ -5,8 +5,8 @@
   <a href="https://img.shields.io/github/followers/monhime?style=social">
     <img src="https://komarev.com/ghpvc/?username=monhime" alt="monhime" />
   </a>
-  <a href="http://twitter.com/monhime">
-    <img height="20" src="https://img.shields.io/twitter/follow/monhime?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/derdon0">
+    <img height="20" src="https://img.shields.io/twitter/follow/derdon0?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/monhime">
     <img height="20" src="https://img.shields.io/github/followers/monhime?label=follow&logo=github&style=flat" />
