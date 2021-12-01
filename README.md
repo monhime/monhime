@@ -13,7 +13,7 @@
   </a>
 </p>
 
-## Metrics
+## Metrics😎
 
 [![monhime's GitHub stats](https://github-readme-stats.vercel.app/api?username=monhime&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -28,11 +28,11 @@
 
 
 
-#### Development Environment
+#### Development Environment👨🏽‍💻
 
-- Favorite Languages: Python
-- Editor: VSCode
-- Shell: bash
-- OS: macOS Big Sur
-- PC: MacBook Air (M1, 2020)
-- Smartphone: iPhone XR
+- Favorite Language💛: Python🐍
+- Editor📝: VSCode
+- Shell🐚: bash
+- OS🧠: macOS Big Sur🍎
+- PC💻: MacBook Air (M1, 2020)🍎
+- Smartphone📱: iPhone XR🍎
