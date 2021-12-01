@@ -13,27 +13,6 @@
   </a>
 </p>
 
-<p align="left"> 
-  <a href="https://monhime.github.io/">
-    <img alt="homepage" width="30px" src="https://simpleicons.org/icons/homeassistantcommunitystore.svg" />
-  </a>
-  <a href="https://twitter.com/monhime">
-    <img alt="twitter" width="30px" src="https://simpleicons.org/icons/twitter.svg" />
-  </a>
-  <a href="https://qiita.com/monhime">
-    <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
-  </a>
-  <a href="https://dev.to/monhime" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="monhime" height="30" width="30" />
-  </a>
-  <a href="https://stackoverflow.com/users/monhime" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="monhime" height="30" width="30" />
-  </a>
-  <a href="https://www.quora.com/profile/Yutkat" target="blank">
-    <img src="https://simpleicons.org/icons/quora.svg" alt="monhime" height="30" width="30" />
-  </a>
-</p>
-
 ## Metrics
 
 [![monhime's GitHub stats](https://github-readme-stats.vercel.app/api?username=monhime&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
