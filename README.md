@@ -1,4 +1,4 @@
-### 👋 Hi! I'm charter
+## 👋 Hi! I'm charter
 
 <p align="left"> 
 
@@ -28,7 +28,7 @@
 
 
 
-#### Development Environment👨🏽‍💻
+## Development Environment👨🏽‍💻
 
 - Favorite Language💛: Python🐍
 - Editor📝: VSCode
