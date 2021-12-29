@@ -29,7 +29,7 @@
 
 ## My Projects ✨
 
-[東京大学献血愛好会HP](https://kenketsuut.github.io/)
+- [東京大学献血愛好会HP](https://kenketsuut.github.io/)
 
 <br>
 
