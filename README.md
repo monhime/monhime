@@ -38,6 +38,6 @@
 - Favorite Language💛: Python🐍
 - Editor📝: VSCode
 - Shell🐚: bash
-- OS🧠: macOS Big Sur🍎
+- OS🧠: macOS Monterey🍎
 - PC💻: MacBook Air (M1, 2020)🍎
 - Smartphone📱: iPhone XR🍎
